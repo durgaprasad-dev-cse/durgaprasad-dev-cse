@@ -2,15 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%" alt="header" />
 
+<!-- Name: stays on screen for 6 seconds after it is typed -->
 <a href="https://github.com/durgaprasad-dev-cse">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1400&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Durga+Prasad+I;Computer+Science+Engineering+Student;Software+Developer;AI+%26+Cybersecurity+Enthusiast;Building.+Learning.+Engineering." alt="Typing animation: Hi, I'm Durga Prasad I — Computer Science Engineering Student, Software Developer, AI and Cybersecurity Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=6000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Durga+Prasad+I" alt="Durga Prasad I" />
+</a>
+
+<!-- Roles -->
+<a href="https://github.com/durgaprasad-dev-cse">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1400&color=C9D1D9&center=true&vCenter=true&width=700&height=45&lines=Computer+Science+Engineering+Student;Software+Developer;AI+%26+Cybersecurity+Enthusiast;Building.+Learning.+Engineering." alt="Computer Science Engineering Student, Software Developer, AI and Cybersecurity Enthusiast" />
 </a>
 
 **Computer Science Engineering Student • Software Developer • AI & Cybersecurity Enthusiast**
 
-<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:dp7271427@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dp7271427@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -40,45 +44,11 @@ Currently strengthening my foundations in **C, Data Structures & Algorithms and 
 
 ## 🛠 Tech Stack
 
-### Languages
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<div align="center">
 
-### Frontend
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square" alt="Artificial Intelligence" /> <img src="https://img.shields.io/badge/-Generative_AI-8B5CF6?style=flat-square" alt="Generative AI" /> <img src="https://img.shields.io/badge/-Prompt_Engineering-EC4899?style=flat-square" alt="Prompt Engineering" /> <img src="https://img.shields.io/badge/-AI--Assisted_Dev-06B6D4?style=flat-square" alt="AI-assisted development" /> <img src="https://img.shields.io/badge/-Cybersecurity-DC2626?style=flat-square" alt="Cybersecurity" /> <img src="https://img.shields.io/badge/-Network_Security-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security" /> <img src="https://img.shields.io/badge/-Security_Awareness-F97316?style=flat-square" alt="Security Awareness" /> <img src="https://img.shields.io/badge/-Security_Testing-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Basic Security Testing" />
 
-### Backend
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Express-404040?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-
-### Databases
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-### AI
-<img src="https://img.shields.io/badge/-Artificial_Intelligence-FF6F00?style=for-the-badge" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/-Generative_AI-8B5CF6?style=for-the-badge" alt="Generative AI" />
-<img src="https://img.shields.io/badge/-Prompt_Engineering-EC4899?style=for-the-badge" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/-AI--Assisted_Development-06B6D4?style=for-the-badge" alt="AI-assisted development" />
-
-### Cybersecurity
-<img src="https://img.shields.io/badge/-Cybersecurity_Fundamentals-DC2626?style=for-the-badge" alt="Cybersecurity Fundamentals" />
-<img src="https://img.shields.io/badge/-Network_Security-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
-<img src="https://img.shields.io/badge/-Security_Awareness-F97316?style=for-the-badge" alt="Security Awareness" />
-<img src="https://img.shields.io/badge/-Basic_Security_Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Basic Security Testing" />
-
-### Tools
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</div>
 
 ---
 
@@ -137,13 +107,7 @@ Currently strengthening my foundations in **C, Data Structures & Algorithms and 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> ➜
-<img src="https://img.shields.io/badge/-DSA-F59E0B?style=for-the-badge" alt="DSA" /> ➜
-<img src="https://img.shields.io/badge/-Java_/_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java / OOP" /> ➜
-<img src="https://img.shields.io/badge/-Full--Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack" /> ➜
-<img src="https://img.shields.io/badge/-AI-8B5CF6?style=for-the-badge" alt="AI" /> ➜
-<img src="https://img.shields.io/badge/-Cybersecurity-DC2626?style=for-the-badge" alt="Cybersecurity" /> ➜
-<img src="https://img.shields.io/badge/-Cloud_/_DevOps-3B82F6?style=for-the-badge" alt="Cloud / DevOps" />
+<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> ➜ <img src="https://img.shields.io/badge/-DSA-F59E0B?style=for-the-badge" alt="DSA" /> ➜ <img src="https://img.shields.io/badge/-Java_/_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java / OOP" /> ➜ <img src="https://img.shields.io/badge/-Full--Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack" /> ➜ <img src="https://img.shields.io/badge/-AI-8B5CF6?style=for-the-badge" alt="AI" /> ➜ <img src="https://img.shields.io/badge/-Cybersecurity-DC2626?style=for-the-badge" alt="Cybersecurity" /> ➜ <img src="https://img.shields.io/badge/-Cloud_/_DevOps-3B82F6?style=for-the-badge" alt="Cloud / DevOps" />
 
 </div>
 
@@ -182,9 +146,7 @@ My long-term goal is to become a strong software engineer with real depth in **s
 
 <div align="center">
 
-<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:dp7271427@gmail.com"><img src="https://img.shields.io/badge/-dp7271427%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dp7271427@gmail.com"><img src="https://img.shields.io/badge/-dp7271427%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br /><br />
 
