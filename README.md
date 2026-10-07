@@ -44,11 +44,69 @@ Currently strengthening my foundations in **C, Data Structures & Algorithms and 
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat-square" alt="Artificial Intelligence" /> <img src="https://img.shields.io/badge/-Generative_AI-8B5CF6?style=flat-square" alt="Generative AI" /> <img src="https://img.shields.io/badge/-Prompt_Engineering-EC4899?style=flat-square" alt="Prompt Engineering" /> <img src="https://img.shields.io/badge/-AI--Assisted_Dev-06B6D4?style=flat-square" alt="AI-assisted development" /> <img src="https://img.shields.io/badge/-Cybersecurity-DC2626?style=flat-square" alt="Cybersecurity" /> <img src="https://img.shields.io/badge/-Network_Security-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security" /> <img src="https://img.shields.io/badge/-Security_Awareness-F97316?style=flat-square" alt="Security Awareness" /> <img src="https://img.shields.io/badge/-Security_Testing-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Basic Security Testing" />
-
-</div>
+<table>
+  <tr>
+    <td width="150" valign="middle"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/-Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Artificial_Intelligence-FF6F00?style=flat-square" alt="Artificial Intelligence" />
+      <img src="https://img.shields.io/badge/-Generative_AI-8B5CF6?style=flat-square" alt="Generative AI" />
+      <img src="https://img.shields.io/badge/-Prompt_Engineering-EC4899?style=flat-square" alt="Prompt Engineering" />
+      <img src="https://img.shields.io/badge/-AI--Assisted_Development-06B6D4?style=flat-square" alt="AI-assisted development" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Cybersecurity</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Cybersecurity_Fundamentals-DC2626?style=flat-square" alt="Cybersecurity Fundamentals" />
+      <img src="https://img.shields.io/badge/-Network_Security-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Network Security" />
+      <img src="https://img.shields.io/badge/-Security_Awareness-F97316?style=flat-square" alt="Security Awareness" />
+      <img src="https://img.shields.io/badge/-Basic_Security_Testing-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Basic Security Testing" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </td>
+  </tr>
+</table>
 
 ---
 
