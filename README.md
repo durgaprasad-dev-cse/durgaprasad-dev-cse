@@ -1,274 +1,180 @@
-# 👋 Hi, I'm Durga Prasad I
+<div align="center">
 
-### 💻 Computer Science Engineering Student | Software Developer | AI & Cybersecurity Enthusiast
+<a href="https://github.com/durgaprasad-dev-cse">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1400&color=E6EDF3&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Durga+Prasad+I;Computer+Science+Engineering+Student;Software+Developer;AI+%26+Cybersecurity+Enthusiast;Building.+Learning.+Engineering." alt="Typing animation: Hi, I'm Durga Prasad I — Computer Science Engineering Student, Software Developer, AI and Cybersecurity Enthusiast" />
+</a>
 
-I am a **Computer Science Engineering student at BNM Institute of Technology (BNMIT), Bengaluru**, focused on building practical software, strengthening problem-solving skills, and continuously learning modern technologies.
+**Computer Science Engineering Student • Software Developer • AI & Cybersecurity Enthusiast**
 
-I enjoy learning by building real-world projects and exploring the intersection of **Software Engineering, Full-Stack Development, Artificial Intelligence, AI Tools, and Cybersecurity**.
+<a href="mailto:durgaprasadcsengg@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Pursuing **B.E. in Computer Science & Engineering** at **BNM Institute of Technology (BNMIT), Bengaluru**
-* 💻 Interested in **Software Engineering and Full-Stack Development**
-* 🤖 Exploring **Artificial Intelligence and AI-powered applications**
-* 🧠 Learning **AI tools and AI-assisted software development**
-* 🔐 Interested in **Cybersecurity and Network Security**
-* 📚 Currently strengthening **C Programming and Data Structures & Algorithms**
-* 🛠️ Learning through practical projects and hands-on development
-* 🚀 Interested in internships, open-source collaboration, hackathons, and software engineering opportunities
+</div>
 
 ---
 
-## 🧩 What I Build
+## About
 
-I am interested in building applications that combine:
-
-* 💻 Software Engineering
-* 🌐 Full-Stack Web Development
-* 🤖 Artificial Intelligence
-* 🧠 AI-Assisted Development
-* 🔐 Cybersecurity
-* 🧮 Data Structures & Algorithms
-* ⚙️ Automation
-* 🌍 Real-World Problem Solving
-
-My goal is to turn what I learn into **useful, secure, maintainable, and scalable software**.
+B.E. Computer Science & Engineering student at **BNM Institute of Technology (BNMIT), Bengaluru**, aiming for a career in software engineering.
+I build practical software projects across **full-stack development, artificial intelligence and cybersecurity**, and learn by shipping real systems.
+Currently strengthening my foundations in **C, Data Structures & Algorithms and Java/OOP** so that what I build rests on solid engineering fundamentals.
 
 ---
 
-# 🛠️ Technical Skills
+## ⚡ Current Focus
 
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
----
-
-## 🌐 Web Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-</p>
+| Area | Status | Details |
+| :-- | :-- | :-- |
+| C & Data Structures and Algorithms | **Learning** | Core programming, problem solving, memory and data structures |
+| Java / OOP | **Learning** | Object-oriented design and programming fundamentals |
+| Full-Stack Development | **Building** | React, Node.js, Express, Flask, relational databases |
+| Artificial Intelligence | **Building** | Generative AI, prompt engineering, AI-assisted workflows |
+| AI-assisted development | **Building** | Using AI tools to speed up work while understanding the code |
+| Cybersecurity | **Exploring** | Security fundamentals, network security, basic security testing |
+| Cloud & DevOps | **Exploring** | Deployment basics, version control workflows, CI/CD concepts |
 
 ---
 
-## ⚙️ Backend & Databases
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+**Languages**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 
----
+**Frontend**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white" alt="React" />
 
-## 🤖 Artificial Intelligence & AI Tools
+**Backend**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/AI%20Assisted%20Development-6E40C9?style=for-the-badge" alt="AI Assisted Development"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI%20Tools-Learning-00A67E?style=for-the-badge" alt="AI Tools"/>
-</p>
+**Databases**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-### Areas I'm Exploring
+**Tools**&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 
-* AI-assisted software development
-* Prompt engineering
-* AI-powered applications
-* Generative AI
-* AI development workflows
-* AI tools for coding
-* AI tools for debugging
-* AI tools for research
-* AI tools for documentation
-* AI-powered productivity
-
-> I use AI as a development and learning tool while focusing on understanding the underlying concepts and code.
+**AI:** Artificial Intelligence • Generative AI • Prompt Engineering • AI-assisted development
+**Cybersecurity:** Cybersecurity Fundamentals • Network Security • Security Awareness • Basic Security Testing
 
 ---
 
-## 🔐 Cybersecurity
+## 🧠 Engineering Approach
 
-* 🔒 Cybersecurity Fundamentals
-* 🌐 Computer Networks
-* 🛡️ Network Security
-* 🎯 Security Awareness
-* 🎣 Phishing Awareness
-* 🔑 Password Security
-* 🧪 Basic Security Testing Concepts
-
----
-
-## 🧰 Tools & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+- Learn fundamentals before abstractions
+- Build projects to reinforce concepts
+- Understand the code instead of blindly depending on AI
+- Write readable, maintainable software
+- Keep security and scalability in mind from the start
+- Improve continuously through projects and problem solving
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 AI-Powered Healthcare Appointment & Patient Portal
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI-Powered Healthcare Appointment & Patient Portal</h3>
+      Full-stack healthcare platform combining appointment management, patient records, secure authentication and AI-assisted workflows.<br /><br />
+      <b>Stack:</b> Python • Flask • React • PostgreSQL<br />
+      <b>Status:</b> In development<br />
+      <a href="https://github.com/durgaprasad-dev-cse/REPO-NAME">Repository</a> • Live demo: <i>coming soon</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cybersecurity Awareness Platform</h3>
+      Web platform that teaches users to recognise common threats such as phishing and weak passwords through structured, practical content.<br /><br />
+      <b>Stack:</b> HTML • CSS • JavaScript • Node.js<br />
+      <b>Status:</b> In development<br />
+      <a href="https://github.com/durgaprasad-dev-cse/REPO-NAME">Repository</a> • Live demo: <i>coming soon</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Online Quiz Application</h3>
+      Interactive quiz application with question management, answer evaluation and instant score feedback.<br /><br />
+      <b>Stack:</b> HTML • CSS • JavaScript<br />
+      <b>Status:</b> Completed<br />
+      <a href="https://github.com/durgaprasad-dev-cse/REPO-NAME">Repository</a> • <a href="https://LIVE-DEMO-URL">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Driver Drowsiness Detection System</h3>
+      Computer-vision system that monitors a driver's eye state in real time and raises an alert when signs of drowsiness are detected.<br /><br />
+      <b>Stack:</b> Python • OpenCV<br />
+      <b>Status:</b> Completed<br />
+      <a href="https://github.com/durgaprasad-dev-cse/REPO-NAME">Repository</a>
+    </td>
+  </tr>
+</table>
 
-A full-stack healthcare platform designed to connect patients and doctors through appointment management, medical documents, communication, and AI-assisted features.
-
-**Focus:** Full-Stack Development · AI · Healthcare Technology · Database Systems
-
----
-
-## 🔐 Cybersecurity Awareness Platform
-
-An educational cybersecurity platform containing security-awareness resources and interactive demonstrations designed to help users understand common cybersecurity threats and safer digital practices.
-
-**Focus:** Cybersecurity · Web Development · Security Awareness
-
----
-
-## 📝 Online Quiz Application
-
-A web-based quiz application built with Flask that provides questions, scoring, percentage calculation, pass/fail evaluation, and result feedback.
-
-**Focus:** Python · Flask · Web Development · Problem Solving
-
----
-
-## 🚗 Driver Drowsiness Detection System
-
-A computer-vision and embedded-system project designed to detect prolonged eye closure and provide an alert using LEDs and a buzzer.
-
-**Focus:** Python · OpenCV · Arduino · Computer Vision · Embedded Systems
-
----
-
-# 📚 Currently Learning
-
-```text
-C Programming
-      ↓
-Data Structures & Algorithms
-      ↓
-Problem Solving
-      ↓
-Full-Stack Development
-      ↓
-Artificial Intelligence
-      ↓
-AI Tools & AI-Assisted Development
-      ↓
-Cybersecurity
-      ↓
-Cloud & DevOps
-```
-
-I believe in learning fundamentals first and then applying them through practical projects.
+<!-- Replace each REPO-NAME / LIVE-DEMO-URL placeholder with the real link, and adjust stack/status to match your actual code. Delete any "Live demo" you don't have. -->
 
 ---
 
-# 🎓 Education
+## 📊 GitHub Activity
 
-### B.E. — Computer Science & Engineering
+<div align="center">
 
-**BNM Institute of Technology (BNMIT), Bengaluru**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=durgaprasad-dev-cse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasad-dev-cse&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 
-Currently pursuing Bachelor of Engineering in Computer Science & Engineering.
+<img src="https://streak-stats.demolab.com?user=durgaprasad-dev-cse&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub streak" />
 
-### Diploma — Computer Science & Engineering
-
-**Rajiv Gandhi Polytechnic**
-
-Diploma in Computer Science & Engineering.
+</div>
 
 ---
 
-# 🎯 Engineering Goals
+## 📚 Currently Learning
 
-My long-term goal is to become a strong and versatile software engineer with depth across:
+**C → DSA → Java/OOP → Full-Stack → AI → Cybersecurity → Cloud/DevOps**
 
-* Software Engineering
-* Full-Stack Development
-* Artificial Intelligence
-* AI-Assisted Development
-* Cybersecurity
-* Data Structures & Algorithms
-* Cloud Computing
-* DevOps
-
-I aim to build software that is:
-
-### **Useful • Secure • Maintainable • Scalable**
+The goal is to build strong fundamentals first, then apply them to larger, more advanced engineering systems.
 
 ---
 
-# 🤝 Open To
+## 🎓 Education
 
-* 💼 Software Engineering Internships
-* 🌐 Full-Stack Development Internships
-* 🔐 Cybersecurity Opportunities
-* 🤖 AI / AI-Assisted Development Projects
-* 🌱 Open-Source Collaboration
-* 🏆 Hackathons
-* 👥 Student Technology Projects
-* 📚 Engineering & Developer Communities
+- **B.E. Computer Science & Engineering**: BNM Institute of Technology (BNMIT), Bengaluru
+- **Diploma in Computer Science & Engineering**: Rajiv Gandhi Polytechnic
 
 ---
 
-# 📊 GitHub
+## 🎯 What I'm Working Toward
 
-<p align="center">
-  <a href="https://github.com/durgaprasad-dev-cse">
-    <img src="https://img.shields.io/badge/GitHub-durgaprasad--dev--cse-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>Building. Learning. Improving. Every Day.</strong>
-</p>
+My long-term goal is to become a strong software engineer with real depth in **software engineering and full-stack development**, supported by solid **data structures and algorithms**, and extended into **artificial intelligence, cybersecurity and cloud/DevOps**. I want to build reliable, secure systems and understand them well enough to explain and improve every layer.
 
 ---
 
-# 📫 Connect With Me
+## 🤝 Open To
 
-<p align="left">
-  <a href="https://github.com/durgaprasad-dev-cse">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-📧 **Email:** [durgaprasadcsengg@gmail.com](mailto:durgaprasadcsengg@gmail.com)
-
----
-
-# 💡 Engineering Philosophy
-
-> **Learn the fundamentals.**
->
-> **Build real things.**
->
-> **Understand how they work.**
->
-> **Keep improving.**
+- Software Engineering Internships
+- Full-Stack Development Internships
+- AI and AI-assisted development projects
+- Cybersecurity projects
+- Open-source collaboration
+- Hackathons
+- Developer communities
 
 ---
 
-<p align="center">
-  <strong>🚀 Building my journey from fundamentals to professional software engineering.</strong>
-</p>
+## 📫 Connect
 
-<p align="center">
-  <sub>Built with curiosity, consistency, and a commitment to continuous learning.</sub>
-</p>
+<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/GitHub-durgaprasad--dev--cse-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/LinkedIn-Durga_Prasad_I-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:durgaprasadcsengg@gmail.com"><img src="https://img.shields.io/badge/Email-durgaprasadcsengg%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+---
+
+<div align="center">
+  <sub>Building software. Strengthening fundamentals. Learning continuously.</sub>
+</div>
