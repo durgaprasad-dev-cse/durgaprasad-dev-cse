@@ -253,39 +253,40 @@ I aim to build software that is:
 
 ---
 
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/durgaprasad-dev-cse">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-📧 **Email:** [durgaprasadcsengg@gmail.com](mailto:durgaprasadcsengg@gmail.com)
-
----
-
-# 💡 Engineering Philosophy
-
-> **Learn the fundamentals.**
->
-> **Build real things.**
->
-> **Understand how they work.**
->
-> **Keep improving.**
-
----
-## 📫 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/durgaprasad-dev-cse"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/durga-prasad-i-8775652b6"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dp7271427@gmail.com"><img src="https://img.shields.io/badge/-dp7271427%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/durgaprasad-dev-cse">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/durga-prasad-i-8775652b6">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dp7271427@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<br /><br />
+<br/><br/>
 
-<sub>Building software. Strengthening fundamentals. Learning continuously.</sub>
+<sub>Building software • Strengthening fundamentals • Learning continuously</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer" />
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+> **Learn the fundamentals.**
+> **Build real things.**
+> **Understand how they work.**
+> **Keep improving.**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="Footer"/>
+</p>
+
 
 </div>
